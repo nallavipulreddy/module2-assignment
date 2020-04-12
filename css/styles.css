@@ -30,7 +30,8 @@ p
 span
 {
 	display: block;
-	border: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
 	width: 30%;
 	text-align: center;
 	position: relative;
